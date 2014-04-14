@@ -1,0 +1,20 @@
+{
+  "name": "LIME Go",
+  "description": "Your best sales friend",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.lime-go.com"
+    ],
+    "launch": {
+      "web_url": "https://go.lime-go.com",
+      "container":"panel"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+  ]
+}
